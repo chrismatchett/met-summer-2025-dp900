@@ -13,3 +13,9 @@ https://learn.microsoft.com/training/paths/azure-data-fundamentals-explore-core-
 * [Introduction to Microsoft Azure Data relational data in Azure](https://learn.microsoft.com/training/paths/azure-data-fundamentals-explore-relational-data/)
 * [Introduction to Microsoft Azure Data non-relational data in Azure](https://learn.microsoft.com/training/paths/azure-data-fundamentals-explore-non-relational-data/)
 * [Introduction to Microsoft Azure Data analytics in Azure](https://learn.microsoft.com/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/)
+
+
+# Labs
+
+* [Azure Portal](https://portal.azure.com)
+* [Azure Labs](https://labs.azure.com)
